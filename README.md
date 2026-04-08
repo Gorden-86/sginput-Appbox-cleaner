@@ -8,4 +8,5 @@
 注意：运行脚本前，请确保搜狗输入法已关闭或相关组件未被占用。
 推荐先搭配[DisableSogouNetwork](https://github.com/yongxin-ms/DisableSogouNetwork/)。
   
-  效果演示![效果演示](https://raw.githubusercontent.com/Gorden-86/sginput-Appbox-cleaner/refs/heads/main/pic/114514.png)
+  效果演示
+  ![效果演示](https://raw.githubusercontent.com/Gorden-86/sginput-Appbox-cleaner/refs/heads/main/pic/114514.png)
